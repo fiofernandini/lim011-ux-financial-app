@@ -30,9 +30,9 @@ El Banco Pichincha uno de los Bancos líderes en el Perú quiere implementar un 
 
 ## 2. Objetivos
 
-Analizar la data
-Testear prototipo inicial para encontrar problemas a resolver.
-Rediseñar Banqui mejorando la experiencia del usuario y así lograr más descargas del app.
+* Analizar la data.
+* Testear prototipo inicial para encontrar problemas a resolver.
+* Rediseñar Banqui mejorando la experiencia del usuario y así lograr más descargas del app.
 
 ## 3. Implementación
 
@@ -51,21 +51,23 @@ Hay un  22% de los jóvenes evitaría las aplicaciones bancarias por temor a la 
 
 ## 5. Problemas identificados con el usuario
 
-Los usuarios buscan seguridad, quieren confiar en que los procesos que van a realizar no haya errores.
-Los usuarios valoran las rapidez de una operación en una app, si algo tiene muchos pasos, les resulta complicado.
-La mayoría de los usuarios ingresan para ver sus saldos, realizar transferencias y pagar servicios, en la primera pantalla deben de mostrarse atajos para esas operaciones.
-Los usuarios necesitan ver en en un app bancaria en que gastan su dinero, para poder llevar en orden sus cuentas.
-Los usuarios buscan que la app bancaria sea confiable, que dé una sensación de que es una opción segura.
-A los usuarios les gusta la idea de no tener que acercarse al banco, porque les molesta hacer colas y sienten que toma mucho tiempo
-Los usuarios sienten que su banco tiene que tener varios cajeros para cuando necesiten contar efectivo.
-Los usuarios están abiertos a nuevas tecnologías que les simplifiquen la vida, pero siempre y cuando estas tecnologías sean masivas.
-Los usuarios valoran un ingreso y/o registro sencillo.
+Realizamos entrevistas y encontramos lo siguiente:
+
+* Los usuarios buscan seguridad, quieren confiar en que los procesos que van a realizar no haya errores.
+* Los usuarios valoran las rapidez de una operación en una app, si algo tiene muchos pasos, les resulta complicado.
+* La mayoría de los usuarios ingresan para ver sus saldos, realizar transferencias y pagar servicios, en la primera pantalla deben de mostrarse atajos para esas operaciones.
+* Los usuarios necesitan ver en en un app bancaria en que gastan su dinero, para poder llevar en orden sus cuentas.
+* Los usuarios buscan que la app bancaria sea confiable, que dé una sensación de que es una opción segura.
+* A los usuarios les gusta la idea de no tener que acercarse al banco, porque les molesta hacer colas y sienten que toma mucho tiempo
+* Los usuarios sienten que su banco tiene que tener varios cajeros para cuando necesiten contar efectivo.
+* Los usuarios están abiertos a nuevas tecnologías que les simplifiquen la vida, pero siempre y cuando estas tecnologías sean masivas.
+* Los usuarios valoran un ingreso y/o registro sencillo.
 
 ## 6. Definición del público objetivo
 
-Mujeres y hombres entre 20 a 35 años de edad. 
-Que sean prácticos y busquen realizar procesos de forma rápida y sencilla.
-Que estén al día el con uso de la tecnología.
+* Mujeres y hombres entre 20 a 35 años de edad. 
+* Que sean prácticos y busquen realizar procesos de forma rápida y sencilla.
+* Que estén al día el con uso de la tecnología.
 
 ### 7. Síntesis
 
@@ -122,33 +124,16 @@ Como parte de nuestra investigación y proceso de desarrollo de soluciones encon
 
 ### Prototipo inicial
 
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1PROTOTIPO.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/2PROTOTIPO.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/3PROTOTIPO.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/4PROTOTIPO.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5PROTOTIPO.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/primero.PNG)
 
 ***
 
 ### Prototipo Final
 
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/segundouno.PNG)
 
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/2ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/segundodos.PNG)
 
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/3ALTA.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/4ALTA.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5ALTA.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/6ALTA.png)
-
-![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/7ALTA.png)
 
 ## 10. Links
 
