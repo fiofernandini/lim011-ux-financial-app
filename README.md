@@ -132,6 +132,8 @@ Como parte de nuestra investigación y proceso de desarrollo de soluciones encon
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5PROTOTIPO.png)
 
+***
+
 ### Prototipo Final
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1ALTA.png)
