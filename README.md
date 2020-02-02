@@ -143,7 +143,12 @@ Como parte de nuestra investigación y proceso de desarrollo de soluciones encon
 
   - Carpeta compartida [Drive](https://drive.google.com/open?id=1ntExDCQ2cBzUXqqhGSnLznBIwRqio6dx).
   
+  - Publicación en [Medium] (https://medium.com/@fiofernandini12/ux-case-study-banqui-ff3e97e09b84).
+  
   - Video en [Loom]().
+  
+  ***
+  
 
 # Aplicación financiera
 
