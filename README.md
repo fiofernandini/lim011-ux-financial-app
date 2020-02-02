@@ -73,16 +73,19 @@ Que estén al día el con uso de la tecnología.
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/afinidad.jpg)
 
+***
 
 ### b) User persona
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/USERPERSONA.PNG)
 
+***
 
 ### c) Customer Journey Map
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/CUSTOMERJOURNEYMAP.png)
 
+***
 
 ## 8. Definición de la solución
 
