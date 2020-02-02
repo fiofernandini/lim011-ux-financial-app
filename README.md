@@ -73,13 +73,16 @@ Que estén al día el con uso de la tecnología.
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/afinidad.jpg)
 
+
 ### b) User persona
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/USERPERSONA.PNG)
 
+
 ### c) Customer Journey Map
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/CUSTOMERJOURNEYMAP.png)
+
 
 ## 8. Definición de la solución
 
@@ -117,19 +120,29 @@ Como parte de nuestra investigación y proceso de desarrollo de soluciones encon
 ### Prototipo inicial
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1PROTOTIPO.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/2PROTOTIPO.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/3PROTOTIPO.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/4PROTOTIPO.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5PROTOTIPO.png)
 
 ### Prototipo Final
 
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1ALTA.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/2ALTA.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/3ALTA.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/4ALTA.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5ALTA.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/6ALTA.png)
+
 ![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/7ALTA.png)
 
 ## 10. Links
