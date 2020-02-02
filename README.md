@@ -1,3 +1,147 @@
+# Banqui
+
+## Índice
+
+* [1. Descripción del problema](#1-Descripción-del-problema)
+
+* [2. Objetivos](#2-Objetivos)
+
+* [3.Implementación](#3-Implementación)
+
+* [4. Descubrimiento e investigación](#4-Descubrimiento-e-investigación)
+
+* [5. Problemas identificados con el usuario](#5-problemas-identificados-con-el-usuario)
+
+* [6. Definición del público objetivo](#6-definición-del-público-objetivo)
+
+* [7. Síntesis](#7-Síntesis)
+
+* [8. Explicación de como los contenidos y funcionalidades responden a los objetivos del proyecto](#8-explicacion-de-como-los-contenidos-y-funcionalidades-responden-a-los-objetivos-del-proyecto)
+
+* [9. Prototipado](#9-prototipado)
+
+* [10. Links](#10-Links)
+
+***
+
+## 1. Descripción del problema
+
+El Banco Pichincha uno de los Bancos líderes en el Perú quiere implementar un Banco 100% digital, llamado Banqui, su principal objetivo es tener un banco que sea más cercano a las necesidades del público más joven del país. Para ello han venido piloteando un app. Los resultados de este piloto son mixtos, hay algunas cosas que han sido bien recibidas por los usuarios, y hay otras que se tienen que mejorar aún.
+
+## 2. Objetivos
+
+Analizar la data
+Testear prototipo inicial para encontrar problemas a resolver.
+Rediseñar Banqui mejorando la experiencia del usuario y así lograr más descargas del app.
+
+## 3. Implementación
+
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/implementacion.PNG)
+
+## 4. Descubrimiento e investigación
+
+Uno de los segmentos de fintech que más rápido está creciendo en América Latina es el de bancos 100% digitales. Es un nicho que presenta excelentes oportunidades de expansión.
+Son pocos los bancos digitales y pocos los países que los tienen, pero tienen una tendencia fuerte en la región. Países como Brasil y Argentina han sido los pioneros.
+En Perú, si bien las entidades financieras locales están llevando a cabos procesos de transformación digital, hasta ahora no había noticias de la llegada de algún banco enteramente digital. Y la gran diferencia de estos bancos con los tradicionales es que el 80% de sus estructuras están enfocadas en la experiencia del cliente.
+El 64% de los peruanos de 18 a 35 años utiliza sus smartphones para efectuar pagos o ver el saldo en su cuenta bancaria. Son los jóvenes los que más adoptan la tecnología y usan apps bancarias. Esta cifra es un promedio entre el 81% de jóvenes que asegura haber efectuado operaciones financieras desde su smartphone al menos una vez en el último mes y el 44% de usuarios nacionales que dijo ser frecuente.
+Además que el 64% de uso de apps bancarias en el Perú supera la cifra en Colombia (58%), Brasil (38%) y Argentina(29%).
+No necesariamente los peruanos están realizando transacciones porque pueden estar entrando solo a verificar su saldo. De otro lado, existe un segmento de solo el 5% de jóvenes peruanos que afirma que nunca efectuó un pago por apps bancarias y no sabía que podía hacerlo.
+Los jóvenes resaltan la posibilidad de ver su saldo en directo, les gusta lo práctico. Pero hay temas de seguridad que son importantes porque si les roban el celular tienen acceso a todas sus cuentas.
+Hay un  22% de los jóvenes evitaría las aplicaciones bancarias por temor a la seguridad de pagos móviles.
+
+## 5. Problemas identificados con el usuario
+
+Los usuarios buscan seguridad, quieren confiar en que los procesos que van a realizar no haya errores.
+Los usuarios valoran las rapidez de una operación en una app, si algo tiene muchos pasos, les resulta complicado.
+La mayoría de los usuarios ingresan para ver sus saldos, realizar transferencias y pagar servicios, en la primera pantalla deben de mostrarse atajos para esas operaciones.
+Los usuarios necesitan ver en en un app bancaria en que gastan su dinero, para poder llevar en orden sus cuentas.
+Los usuarios buscan que la app bancaria sea confiable, que dé una sensación de que es una opción segura.
+A los usuarios les gusta la idea de no tener que acercarse al banco, porque les molesta hacer colas y sienten que toma mucho tiempo
+Los usuarios sienten que su banco tiene que tener varios cajeros para cuando necesiten contar efectivo.
+Los usuarios están abiertos a nuevas tecnologías que les simplifiquen la vida, pero siempre y cuando estas tecnologías sean masivas.
+Los usuarios valoran un ingreso y/o registro sencillo.
+
+## 6. Definición del público objetivo
+
+Mujeres y hombres entre 20 a 35 años de edad. 
+Que sean prácticos y busquen realizar procesos de forma rápida y sencilla.
+Que estén al día el con uso de la tecnología.
+
+### 7. Síntesis
+
+### a) Mapa de afinidad
+
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/afinidad.jpg)
+
+### b) User persona
+
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/USERPERSONA.PNG)
+
+### c) Customer Journey Map
+
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/CUSTOMERJOURNEYMAP.png)
+
+## 8. Definición de la solución
+
+Como parte de nuestra investigación y proceso de desarrollo de soluciones encontramos los siguientes herramientas que nos permitieron entender mejor los problemas.
+
+### Problem statements
+
+* Claudia necesita ver sus movimientos y detalles para poder llevar el orden de sus gastos.
+* Claudia necesita una app intuitiva y de fácil acceso para realizar sus operaciones en la menor cantidad de tiempo posible.
+* Claudia quisiera ser cliente de un banco en el que pueda hacer todo tipo de trámites de manera online para no perder el tiempo      haciendo colas y avanzar con sus actividades diarias.
+* Claudia necesita un banco que le brinde seguridad y confianza para poder realizar sus trámites con tranquilidad.
+
+### How Might We
+
+* ¿HMW hacer que la app permita al usuario saber sobre sus consumos de forma amigable?
+* ¿HMW hacer una app que permita registrarse de manera rápida?
+* ¿HMW diseñar una app que al usuario le resulte simple de entender?
+* ¿HMW hacer que la app permita al usuario realizar todas sus operaciones y consultas de manera online?
+* ¿HMW hacer que el usuario pueda ver las operaciones a realizar de una forma ordenada, para que la interacción le sea sencilla e intuitiva?
+* ¿HMW hacer que el usuario al tener alguna duda, se comunique con una persona real de manera online?
+* ¿HMW hacer que el usuario se identifique el banco para que sienta confianza de realizar sus operaciones?
+
+### What if
+
+* ¿Que tal si Claudia pudiese ver sus movimientos de forma rápida?
+* ¿Que tal si Claudia se registra de una manera que le sea cómoda?
+* ¿Que tal si Claudia  ingresa a la aplicación tan solo con su documento y contraseña?
+* ¿Que tal si Claudia paga sus servicios en pocos pasos?
+* ¿Que tal si Claudia pudiera comunicarse con alguien real en caso de alguna eventualidad?
+* ¿Que tal si Claudia pudiera identificarse con la marca del banco?
+
+
+## 9.Prototipo
+
+### Prototipo inicial
+
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1PROTOTIPO.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/2PROTOTIPO.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/3PROTOTIPO.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/4PROTOTIPO.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5PROTOTIPO.png)
+
+### Prototipo Final
+
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/1ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/2ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/3ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/4ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/5ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/6ALTA.png)
+![](https://github.com/fiofernandini/lim011-ux-financial-app/blob/master/imagenes/7ALTA.png)
+
+## 10. Links
+
+   - Prototipo de alta fidelidad [Figma](https://www.figma.com/file/drteUyiqwIdbKohndeWeA4/Banqui-Fio-y-Eli?node-id=646%3A0).
+
+  - Link navegable  [Marvel](https://marvelapp.com/4bbd4eg/screen/65891191).
+
+  - Carpeta compartida [Drive](https://drive.google.com/open?id=1ntExDCQ2cBzUXqqhGSnLznBIwRqio6dx).
+  
+  - Video en [Loom]().
+
 # Aplicación financiera
 
 ## Preámbulo
